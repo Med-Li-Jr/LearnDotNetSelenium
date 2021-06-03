@@ -1,0 +1,17 @@
+D:\DocStream\LearnSelenium\LearnSelenium\bin\Debug\netcoreapp3.1\LearnSelenium.exe
+D:\DocStream\LearnSelenium\LearnSelenium\bin\Debug\netcoreapp3.1\LearnSelenium.deps.json
+D:\DocStream\LearnSelenium\LearnSelenium\bin\Debug\netcoreapp3.1\LearnSelenium.runtimeconfig.json
+D:\DocStream\LearnSelenium\LearnSelenium\bin\Debug\netcoreapp3.1\LearnSelenium.runtimeconfig.dev.json
+D:\DocStream\LearnSelenium\LearnSelenium\bin\Debug\netcoreapp3.1\LearnSelenium.dll
+D:\DocStream\LearnSelenium\LearnSelenium\bin\Debug\netcoreapp3.1\LearnSelenium.pdb
+D:\DocStream\LearnSelenium\LearnSelenium\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DocStream\LearnSelenium\LearnSelenium\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\DocStream\LearnSelenium\LearnSelenium\obj\Debug\netcoreapp3.1\LearnSelenium.AssemblyInfoInputs.cache
+D:\DocStream\LearnSelenium\LearnSelenium\obj\Debug\netcoreapp3.1\LearnSelenium.AssemblyInfo.cs
+D:\DocStream\LearnSelenium\LearnSelenium\obj\Debug\netcoreapp3.1\LearnSelenium.csproj.CoreCompileInputs.cache
+D:\DocStream\LearnSelenium\LearnSelenium\obj\Debug\netcoreapp3.1\LearnSelenium.csproj.CopyComplete
+D:\DocStream\LearnSelenium\LearnSelenium\obj\Debug\netcoreapp3.1\LearnSelenium.dll
+D:\DocStream\LearnSelenium\LearnSelenium\obj\Debug\netcoreapp3.1\LearnSelenium.pdb
+D:\DocStream\LearnSelenium\LearnSelenium\obj\Debug\netcoreapp3.1\LearnSelenium.genruntimeconfig.cache
+D:\DocStream\LearnSelenium\LearnSelenium\obj\Debug\netcoreapp3.1\LearnSelenium.csprojAssemblyReference.cache
+D:\DocStream\LearnSelenium\LearnSelenium\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
